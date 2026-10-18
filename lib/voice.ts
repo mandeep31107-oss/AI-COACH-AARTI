@@ -1,7 +1,7 @@
 import * as Speech from 'expo-speech';
 import { Platform } from 'react-native';
 
-let enabled = true;
+let enabled = true; 
 let rate = 0.95;
 
 export const voice = {
